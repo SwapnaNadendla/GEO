@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GEO Location Tracker</string>
+    <string name="google_maps_key">AIzaSyC3Jc2DEEnlaSGQtTHqMlCvymnKcNQFtNE</string>
+    <string name="title_activity_google_maps">Map</string>
+</resources>

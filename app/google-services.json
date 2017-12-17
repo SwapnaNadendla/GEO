@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "619989048907",
+    "firebase_url": "https://geo-location-tracker-3ad34.firebaseio.com",
+    "project_id": "geo-location-tracker-3ad34",
+    "storage_bucket": "geo-location-tracker-3ad34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:619989048907:android:9b537403cc3f9ff9",
+        "android_client_info": {
+          "package_name": "com.example.user.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "619989048907-c8d0pqu2e8d4a4otg7mqb7acs3pe72ao.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCm2VRvxhwsps8XSg2BThgY2HGRBpxxyWA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

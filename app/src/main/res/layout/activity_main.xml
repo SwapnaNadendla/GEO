@@ -6,13 +6,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     tools:context="com.example.user.myapplication.MainActivity">
-
-    <TextView
-        android:id="@+id/location"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:hint="map" />
-
     <EditText
         android:id="@+id/name"
         android:layout_width="match_parent"

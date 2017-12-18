@@ -18,15 +18,10 @@ import android.widget.Toast;
 
 
 public class MainActivity extends AppCompatActivity {
-
-    double lat, lng;
-    TextView textView;
-    Button next;
-    String userId;
     String name;
     String mobnum;
     EditText nt,et;
-    public String msg;
+
      // private Datab
    // aseReference mDatabase= FirebaseDatabase.getInstance().getReference();
     @Override
